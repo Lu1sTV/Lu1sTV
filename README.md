@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lu1sTV
-- 👀 I’m interested in PHP, Python
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Python, Julia, 
+- 🌱 I’m currently learning JavaScript, R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ehrlicher.luis@gmail.com
 
