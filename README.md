@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Lu1sTV
-- 👀 I’m interested in Building cool stuff
-- 🌱 I’m currently learning TypeScript, Python, React...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ehrlicher.luis@gmail.com
+# Hi, I'm Luis
 
-<!---
-Lu1sTV/Lu1sTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Science & Artificial Intelligence student with a background in software development.
+
+I'm currently focused on:
+- AI engineering and agentic workflows
+- Local LLMs and context engineering
+- Software development with Python and TypeScript
+- Cloud automation and data-driven applications
+
+Currently completing my bachelor's thesis on agentic AI and local LLM workflows.
+
+## Tech
+Python · TypeScript · SQL · React · Next.js · Docker · Google Cloud · Git
