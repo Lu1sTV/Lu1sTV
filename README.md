@@ -1,14 +1,7 @@
 # Hi, I'm Luis
 
-Data Science & Artificial Intelligence student with a background in software development.
+I work at the intersection of software development, data, and AI.
 
-I'm currently focused on:
-- AI engineering and agentic workflows
-- Local LLMs and context engineering
-- Software development with Python and TypeScript
-- Cloud automation and data-driven applications
+I'm interested in building practical and maintainable software, with a focus on AI, automation, and cloud technologies.
 
-Currently completing my bachelor's thesis on agentic AI and local LLM workflows.
-
-## Tech
-Python · TypeScript · SQL · React · Next.js · Docker · Google Cloud · Git
+**Tech:** Python · TypeScript · SQL · React · Next.js · Docker · Google Cloud · Git
